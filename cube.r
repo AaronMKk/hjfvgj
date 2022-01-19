@@ -1,5 +1,3 @@
 cube <- function(x) {
-
- x^12
-
+ x * x * x
 }
